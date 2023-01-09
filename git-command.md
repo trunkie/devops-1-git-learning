@@ -1,10 +1,10 @@
 # Các lệnh Git
 
 ## 1. Cấu hình và khởi tạo Repo
-### ${\color{purple}{git \ config \ --global \ user.name} \ \color{yellow}{newname}}$
+### $\mathcal{\color{purple}{git \ config \ --global \ user.name} \ \color{yellow}{newname}}$
 > Đổi tên người dùng
 
-### ${\color{purple}{git \ config \ --global \ user.email} \ \color{yellow}{newmail@domain.com}}$
+### $\mathcal{\color{purple}{git \ config \ --global \ user.email} \ \color{yellow}{newmail@domain.com}}$
 > Đổi email người dùng
 
 ### ${\color{purple}{git \ init}$
